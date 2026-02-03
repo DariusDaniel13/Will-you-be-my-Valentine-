@@ -54,16 +54,16 @@
 })();
 */
 const messages = [
-    "Are you sure?",
-    "Really sure??",
-    "Are you positive?",
-    "Pookie please...",
-    "Just think about it!",
-    "If you say no, I will be really sad...",
-    "I will be very sad...",
-    "I will be very very very sad...",
-    "Ok fine, I will stop asking...",
-    "Just kidding, say yes please! ❤️"
+    "Esti sigura?",
+    "Chiar esti siguraaaa??",
+    "Nu te-ai razgandit???",
+    "Iubireee...",
+    "Mai gandeste-te un pic!",
+    "Daca ma refuzi o sa ma intristez rau...",
+    "O sa fiu foarte trist...",
+    "O sa fiu foarte foarte trist...",
+    "Of bine, nu mai insist...",
+    "GLUMEAM, ZI DA! ❤️"
 ];
 
 let messageIndex = 0;
